@@ -4,10 +4,17 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+{% include css/fly.css %}
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
+}
+
+section {
+  background-color: white;
+  position: relative;
 }
 
 .text-muted {
@@ -269,18 +276,21 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-color: #2E2E30;
+/*    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-}
+*/}
 
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
+    position: relative;
+    z-index: 5;
 }
 
 header .intro-text .intro-lead-in {
@@ -724,6 +734,8 @@ section#contact .text-danger {
 footer {
     padding: 25px 0;
     text-align: center;
+    position: relative;
+    background-color: white;
 }
 
 footer span.copyright {
