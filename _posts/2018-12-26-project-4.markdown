@@ -10,6 +10,6 @@ alt: image-alt
 project-date: December 2018
 client: Terrace Club
 category: Logo Design
-description: Logo.
+description: The logo is a wine glasses combined with 'T' and 'C', the initial of Terrace Club. The elegent gold color presents its luxury value and high quality.
 
 ---

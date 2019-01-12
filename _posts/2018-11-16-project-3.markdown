@@ -7,9 +7,9 @@ date: 2018-11-16
 img: mr-cocktail.png
 thumbnail: mr-cocktail.png
 alt: image-alt
+link: https://mr-cocktail-kitty.herokuapp.com/
 project-date: November 2018
-client: Start Bootstrap
 category: Web Development
-description: Mr cocktail.
+description: Mr cocktail is a wine resume website. Bar owner can create cocktails and choose different ingredients to add into cocktails.
 
 ---

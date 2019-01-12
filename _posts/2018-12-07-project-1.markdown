@@ -1,0 +1,16 @@
+---
+title: Lilixia
+subtitle: Website Design
+layout: default
+modal-id: 1
+date: 2018-12-07
+img: lilixia-website.png
+thumbnail: lilixia-website.png
+alt: image-alt
+link: https://lilixia.wogengapp.cn/
+project-date: December 2018
+client: Start Bootstrap
+category: Web Development
+description: Lilixia is a software to manage inventory and a marketplace where kitchens can post ads for food that would otherwise go to waste, for a deep discount. It's not just another food delivery app, we'll do something amazing for the environment by doing what we all love - eating cheap amazing food.
+
+---
